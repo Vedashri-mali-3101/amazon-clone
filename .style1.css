@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav1{
+height: 3rem;
+width: 2rem;
+max-width: fit-content;
+background-color: #222e3d;
+
+}
